@@ -1,0 +1,52 @@
+//
+//
+//
+//
+//     Level -1        |       Level 0         |        Level 1        |         Level 2                . . . 
+//
+//
+//
+//
+//
+//
+//                     |       Corse topic 1   
+//                                                   |        Concept 1                
+//                                                                                       sub-concept 1
+//     Course name     |       Corse topic 2         |        Concept 2        |         sub-concept 2
+//                                                                                       sub-concept 3
+//                                                   |        Concept 3                
+//                     |       Corse topic 3   
+//
+//
+//
+
+//
+[Level -1]
+Course name : 
+
+[Level 0]
+Corse topic 1 : 
+Corse topic 2 : 
+Corse topic 3 : 
+
+[Level 1]
+Concept 1 of topic 1 :
+Concept 2 of topic 1 :
+Concept 3 of topic 1 :
+
+Theory 1 of topic 1 :
+Theory 2 of topic 1 :
+
+[Level 2]
+Concept 11 sub-concept 1 :
+Concept 11 sub-concept 2 :
+Concept 11 sub-concept 3 :
+.
+.
+.
+[Level n]
+Sub-concept n sub-concept 1 :
+Sub-concept n sub-concept 2 :
+Sub-concept n sub-concept 3 :
+
+
